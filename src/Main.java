@@ -1,5 +1,12 @@
-import java.util.Scanner;
-
+//import java.util.Scanner;
+/*A palindrome is a word that reads the same backward or forward.
+Write a function that checks if a given word is a palindrome.
+Character case should be ignored.
+public static boolean isPalindrome(String word)
+For example, isPalindrome("Deleveled") should return true as character case should be ignored, resulting in "deleveled",
+which is a palindrome since it reads the same backward and forward.
+https://turing.ly/submit/test_board_palindrome
+*/
 public class Main {
 
     private static boolean isPalindrome(String word) {
